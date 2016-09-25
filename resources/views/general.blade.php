@@ -38,7 +38,8 @@
 <div class="expanded row footer">
     <div class="large-2 columns">
       <h6>هاکا ایران </h6>
-      <small> پلتفرم ماراتن های برنامه نویسی ایران</small>
+      <small> پلتفرم ماراتن های برنامه نویسی ایران</small></br>
+      <small>میزبانی شده توسط سرورهای قدرتمند پارس پک</small>
     </div>
     <div class="large-8 columns left">
       <ul class="menu simple text-left">
