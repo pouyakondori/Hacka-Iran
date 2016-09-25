@@ -1,0 +1,89 @@
+
+/* Font for Hacka Iran Starts ============================================= */
+
+/* arabic */
+@font-face {
+  font-family: 'Harmattan';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Harmattan'), local('Harmattan-Regular'), url(https://fonts.gstatic.com/s/harmattan/v1/U_JeslRSXT3VQya1ynkY0YX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
+  unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+FB50-FDFF, U+FE80-FEFC;
+}
+/* latin */
+@font-face {
+  font-family: 'Harmattan';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Harmattan'), local('Harmattan-Regular'), url(https://fonts.gstatic.com/s/harmattan/v1/Ssr8ACs4q9xAhZDBBV14x5Bw1xU1rKptJj_0jans920.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+/* arabic */
+@font-face {
+  font-family: 'Lalezar';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lalezar'), local('Lalezar-Regular'), url(https://fonts.gstatic.com/s/lalezar/v1/7BXXWV50cQ6jftB2RNlEr1KPGs1ZzpMvnHX-7fPOuAc.woff2) format('woff2');
+  unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+FB50-FDFF, U+FE80-FEFC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Lalezar';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lalezar'), local('Lalezar-Regular'), url(https://fonts.gstatic.com/s/lalezar/v1/0IneeWAu-M_r_RYQuMvAmVKPGs1ZzpMvnHX-7fPOuAc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lalezar';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lalezar'), local('Lalezar-Regular'), url(https://fonts.gstatic.com/s/lalezar/v1/CJHciJRG-oz_3IS7E2CFaVKPGs1ZzpMvnHX-7fPOuAc.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lalezar';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lalezar'), local('Lalezar-Regular'), url(https://fonts.gstatic.com/s/lalezar/v1/LuiocayY7A8RVKGiQmaiXALUuEpTyoUstqEm5AMlJo4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+/* Font for Hacka Iran Ends ============================================= */
+
+.footer {
+	background-color:#2a3b46;
+	color:#fff;
+	padding:10px;
+  margin-top:20px;
+}
+.footer a {
+	color:#fff;
+}
+.eventcover {
+  background-color:#333;
+  color:#fff;
+  padding:20px;
+  margin-bottom:20px;
+}
+
+.white-callout {
+  background-color:#fff !important;
+}
+.skill {
+    margin-right: -100px;
+    margin-top: -30px;
+}
+
+.ProfImage {
+height: 70px;
+width: 70px;
+-moz-border-radius: 35px;
+border-radius: 35px;
+}
+
+.tipprof {
+  border-bottom: 0px !important;
+}
