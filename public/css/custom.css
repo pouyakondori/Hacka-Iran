@@ -87,3 +87,7 @@ border-radius: 35px;
 .tipprof {
   border-bottom: 0px !important;
 }
+
+.network-header {
+  margin-top: 20px;
+}

@@ -17,9 +17,9 @@
           <div class="top-bar-right">
             <ul class="menu" data-dropdown-menu>
               <li class="menu-text"><a href="/">هاکا @ ایران</a></li>
-              <li><a href="#">هاکاتن چیست؟</a></li>
+              <li><a href="../what-is-hackathon">هاکاتن چیست؟</a></li>
               <li><a href="#">لیست هاکاتن ها</a></li>
-              <li><a href="#">شبکه</a></li>
+              <li><a href="../network">شبکه</a></li>
             </ul>
           </div>
           <div class="top-bar-left">

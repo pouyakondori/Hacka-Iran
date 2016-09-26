@@ -36,6 +36,16 @@ Route::get('/events/fintech1', function () {
 });
 
 Route::get('/profile', function () {
-		$PageTitle = 'هاکافین | پروفایل کاربری';
+		$PageTitle = 'هاکا ایران | پروفایل کاربری';
 	return view('profile')->with('PageTitle', $PageTitle);
+});
+
+Route::get('/network', function () {
+		$PageTitle = 'هاکا ایران | شبکه برنامه نویسان هاکا ایران';
+	return view('network')->with('PageTitle', $PageTitle);
+});
+
+Route::get('/what-is-hackathon', function () {
+		$PageTitle = 'هاکا ایران | هاکاتن چیست؟';
+	return view('what-is-hackathon')->with('PageTitle', $PageTitle);
 });
