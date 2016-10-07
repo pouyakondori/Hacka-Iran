@@ -49,3 +49,8 @@ Route::get('/what-is-hackathon', function () {
 		$PageTitle = 'هاکا ایران | هاکاتن چیست؟';
 	return view('what-is-hackathon')->with('PageTitle', $PageTitle);
 });
+
+Route::get('/signin', function () {
+		$PageTitle = 'هاکا ایران | ورود یا ثبت نام کاربر';
+	return view('signin')->with('PageTitle', $PageTitle);
+});

@@ -24,7 +24,7 @@
           </div>
           <div class="top-bar-left">
             <ul class="menu">
-              <li><button class="alert hollow button" href="#">ورود / ثبت نام <i class="fa fa-sign-in" aria-hidden="true"></i></button></li>
+              <li><a class="alert hollow button" href="../signin">ورود / ثبت نام <i class="fa fa-sign-in" aria-hidden="true"></i></a></li>
               <li>...</li>
               <li><button type="button" class="button alert">رویداد خود را اضافه کنید</button></li>
             </ul>
